@@ -21,6 +21,7 @@
 	background: linear-gradient(#D05CF2, #7E5CF2);
 }
 .titulo{
+	font-size: 30px;
 	padding: 5px;
 	margin-top: 20px;
 	text-align: center;
@@ -80,11 +81,13 @@
 	width:50% ;	
 }
 .xj{
+	
 	padding: 5px;
 	background-color: #ffffff;
-	margin-right: 5%;
+	margin-right: 4%;
 	margin-top: 100px;
 	color: #000000;
+	font-size: 25px;
 }
 .xy1{
 	display: flex;
@@ -140,4 +143,10 @@ margin-left: 5px;
 .agradecimento{
 	font-size: 25px;
 	margin-top: 25px;
+}
+.titulo--{
+	padding: 5px;
+	margin-top: 20px;
+	text-align: center;
+	color: #000000;
 }
