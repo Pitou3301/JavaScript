@@ -1,0 +1,119 @@
+header{
+	background-color: #2e2e2e;
+}
+.fotologo{
+	padding: 5px;
+	height: 7%;
+	width: 7%;
+}
+.fotonos{
+	margin-bottom: 30px;
+	margin-left: 1150px;
+	}
+.faixa{
+	background-color: #525252;
+	height: 15px;
+}
+.meio{
+	background-color: #2E2E2E;	
+}
+.texto1{
+	text-align: justify;
+	font-family: 'Courier Prime', monospace;
+	margin-top: 25px;
+	padding: 15px;
+	font-size: 33px;
+	width: 80%;
+}
+.meioxx{
+	display: flex;
+	justify-content: space-around;
+}
+.t1{
+	width: 50%;
+	height: 50%;
+}
+
+.foto-c{
+	margin-left: 200px;
+	margin-top: 15px;
+	width: 50%;
+	height: 70%;
+	border: 5px solid white;
+}
+.titulo1{
+	text-align: center;
+	font-family: 'Courier Prime', monospace;
+	font-size: 40px;
+	padding: 15px;
+}
+.subtitulo1{
+	text-align: center;
+	font-family: 'Courier Prime', monospace;
+	font-size: 30px;
+	margin-bottom: 40px;
+}
+.meio2{
+	background-color: #2e2e2e;
+
+}
+.fotosA{
+	margin: 15px;
+	padding: 30px;
+	width: 80%;
+	display: inline-flex;
+}
+.foto1{
+	border: 5px solid black;
+	margin-top: 5px;
+	width: 40%;
+	height: 60%;
+}
+.texto-1{
+	color: white;
+	font-family: 'Courier Prime', monospace;
+	font-size: 20px;
+	width: 60%;
+}
+.foto2{
+	border: 5px solid black;
+	margin-top: 15px;
+	width: 60%;
+	height: 60%;
+}
+.texto-2{
+    color: white;
+	font-family: 'Courier Prime', monospace;
+	font-size: 20px;
+	width: 60%;
+}
+.fotosB{
+	margin: 15px;
+	padding: 30px;
+	width: 80%;
+	display: inline-flex;
+}
+.foto3{
+	border: 5px solid black;
+	width: 50%;
+	height: 60%;
+}
+.texto-3{
+    color: white;
+	font-family: 'Courier Prime', monospace;
+	font-size: 20px;
+	width: 60%;
+}
+.foto4{
+	margin-left: 170px;
+	border: 5px solid black;
+	width: 50%;
+	height: 60%;
+}
+.texto-4{
+	margin-left: 170px;
+    color: white;
+	font-family: 'Courier Prime', monospace;
+	font-size: 20px;
+	width: 60%;
+}
