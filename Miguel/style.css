@@ -244,3 +244,49 @@ header{
 	font-size: 20px;
 	width: 40%;
 }
+.jp{
+	justify-content: space-around;
+	display: flex;
+	width: 90%;
+}
+.fotose1{
+	margin-left: 50px;
+	width: 25%;
+	height: 25%;
+}
+.fotose2{
+	margin-left: 50px;
+	width: 25%;
+	height: 25%;
+}
+.fotose3{
+	margin-left: 50px;
+	width: 25%;
+	height: 25%;
+}
+.fotose4{
+	margin-left: 50px;
+	width: 25%;
+	height: 25%;
+}
+.nomes{
+	margin-left: 30px;
+	padding: 15px;
+}
+.nada{
+	height: 15px;
+}
+.rodape{
+	justify-content: center;
+	background-color: #ffffff;
+}
+.logo2{
+	height: 15%;
+	width: 15%;
+	margin-left: 550px;
+}
+.faixa2{
+	margin-top: 15px;
+	background-color: #525252;
+	height: 3px;
+}
