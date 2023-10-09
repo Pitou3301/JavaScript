@@ -169,8 +169,9 @@ header{
 	margin-left: 100px;
 }
 .texto-1{
+    display: flex;
+    justify-content: center;
 	margin-top: 30px;
-	margin-right: 70px;
 	color: white;
 	font-family: 'Courier Prime', monospace;
 	font-size: 20px;
@@ -273,20 +274,52 @@ header{
 	margin-left: 30px;
 	padding: 15px;
 }
+.nomes1{
+    color: white;
+}
+.nomes2{
+    color: white;
+}
+.nomes3{
+    color: white;
+}
+.nomes4{
+    color: white;
+}
 .nada{
 	height: 15px;
 }
 .rodape{
+    display: flex;
 	justify-content: center;
 	background-color: #ffffff;
 }
 .logo2{
 	height: 15%;
 	width: 15%;
-	margin-left: 550px;
 }
 .faixa2{
 	margin-top: 15px;
 	background-color: #525252;
 	height: 3px;
+}
+.snake-game{
+    background-color: #ffffff;
+}
+.grid{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    border: black solid;
+}
+.grid div{
+    width: 20px;
+    height: 20px;
+}
+.snake{
+    background-color: #1aff00;
+}
+.apple{
+    background-color: #ff0000;
 }
