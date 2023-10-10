@@ -303,23 +303,57 @@ header{
 	background-color: #525252;
 	height: 3px;
 }
+.joguinhos1{
+	background-color: white;
+	display: flex;
+	justify-content: center;
+}
+.joguinhos2{
+	background-color: white;
+	display: flex;
+	justify-content: center;
+}
+.titulo3{
+	text-align: center;
+	font-size: 30px;
+	padding-left: 10px;
+	font-family: 'Courier Prime', monospace;
+}
+.texto3{
+	font-family: 'Courier Prime', monospace;
+	font-size: 15px;
+	padding-top: 15px;
+}
 .snake-game{
     background-color: #ffffff;
 }
-.grid{
-    width: 250px;
-    height: 250px;
-    display: flex;
-    flex-wrap: wrap;
-    border: black solid;
+.start{
+	margin-left: 70px;
 }
-.grid div{
+.grid {
+	margin-left: 15px;
+ 	border: 1px black solid;
+	width: 200px;
+	height: 200px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.score{
+	margin-left: 70px;
+}
+.grid div {
     width: 20px;
     height: 20px;
 }
-.snake{
-    background-color: #1aff00;
+
+.snake {
+    background-color: green;
 }
-.apple{
-    background-color: #ff0000;
+
+.apple {
+    background-color: red;
+}
+.fim{
+	background-color: white;
+	height: 30px;
 }
