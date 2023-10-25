@@ -3,6 +3,7 @@ body{
 }
 header{
 	background-color: #2e2e2e;
+	animation: shake 5s infinite;
 }
 .nos{
 	display: flex;
