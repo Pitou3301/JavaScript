@@ -23,12 +23,7 @@ header{
 	height: 5%;
 	margin-top: 30px;
 	margin-left: 1000px;
-	animation: shake 5s infinite
-}
-@keyframes shake {
-	0% { transform:  translateX(0); }
-	50% { transform: translateX(50px); }
-	100% { transform: translateX(0); }
+
 }
 .texto0{
 	margin-top: 50px;
@@ -232,6 +227,13 @@ header{
 .logo2{
 	height: 15%;
 	width: 15%;
+	animation: shake 5s infinite;
+}
+@keyframes shake {
+	0% { transform: translateX(0); }
+	50% { transform: translateX(50px); }
+	100% { transform: translateX(0);}
+
 }
 .faixa2{
 	margin-top: 15px;
