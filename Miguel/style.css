@@ -11,12 +11,14 @@ header{
 	padding: 5px;
 	height: 10%;
 	width: 10%;
+	animation: shake 5s infinite;
 }
 .fotonos{
 	width: 5%;
 	height: 5%;
 	margin-top: 30px;
 	margin-left: 1000px;
+	animation: shake 5s infinite;
 }
 .texto0{
 	margin-top: 50px;
