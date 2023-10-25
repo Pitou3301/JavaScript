@@ -62,7 +62,18 @@ header{
 	font-family: 'Courier Prime', monospace;
 	font-size: 40px;
 	padding: 15px;
+
 }
+.titulo2{
+color:#ffffff;
+text-align: center;
+font-family: 'Ubuntu', sans-serif;
+font-size: 40px;
+padding: 15px;
+
+
+}
+
 .subtitulo1{
 	margin-left: 150px;
 	width: 80%;
