@@ -79,6 +79,49 @@ header{
 	font-size: 30px;
 	margin-bottom: 40px;
 }
+.titulo2{
+	color:#ffffff;
+	text-align: center;
+	font-family:'Ubuntu', sans-serif;
+	font-size: 40px;
+    padding: 15px;
+}
+
+.texto2{
+color: rgb(87, 107, 128);
+text-align: center;
+font-family:'Ubuntu', sans-serif;
+font-size: 20px;
+
+}
+.integrantesx1{
+
+
+color: #2222ee;
+font-family:'Ubuntu', sans-serif;
+margin-left: 5px;
+}
+.integrantesx2{
+color: #1aff00;
+font-family:'Ubuntu', sans-serif;
+margin-left: 5px;
+}
+.integrantesx3{
+color: #ff0000;
+font-family:'Ubuntu', sans-serif;
+margin-left: 5px;
+}
+.integrantesx4{
+color:#ffff00 ;
+font-family:'Ubuntu', sans-serif;
+margin-left: 5px;
+}
+.subtexto{
+ color: rgb(255, 255, 255);
+ font-family:'Ubuntu', sans-serif;
+ margin-left: 5px;
+}
+
 .conteiner{
 	width: 100%;
 	height: 100 vh;
