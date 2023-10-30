@@ -96,13 +96,12 @@ font-size: 20px;
 }
 .integrantesx1{
 
-
-color: #2222ee;
+color:#4040ce;
 font-family:'Ubuntu', sans-serif;
 margin-left: 5px;
 }
 .integrantesx2{
-color: #1aff00;
+color:#1aff00;
 font-family:'Ubuntu', sans-serif;
 margin-left: 5px;
 }
@@ -162,20 +161,25 @@ margin-left: 5px;
 	height: 25%;
 }
 .nomes{
-	margin-left: 30px;
-	padding: 15px;
+	margin-left: 0px;
+	padding: 0px;
 }
 .nomes1{
-    color: black;
+    color: rgb(255, 255, 255);
+	font-family: 'Courier Prime', monospace;
+	font-size: 50px;
 }
 .nomes2{
-    color: black;
+    color: rgb(253, 251, 251);
+	font-family: 'Courier Prime', monospace;
 }
 .nomes3{
-    color: black;
+    color: rgb(255, 255, 255);
+	font-family: 'Courier Prime', monospace;
 }
 .nomes4{
-    color: black;
+    color: rgb(255, 255, 255);
+	font-family: 'Courier Prime', monospace;
 }
 .nada{
 	height: 15px;
